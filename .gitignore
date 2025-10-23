@@ -1,0 +1,11 @@
+# Backup and temp files (vim why)
+*~
+*.swp
+*.swo
+
+# IDE/editor (Add yours here later)
+.vscode/
+.idea/
+*.code-workspace
+
+# Misc (IDK WHAT TO DO ADD LATER)
